@@ -1,0 +1,10 @@
+services:
+  nagios:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - nagios_data:/usr/local/nagios
+
+volumes:
+  nagios_data:

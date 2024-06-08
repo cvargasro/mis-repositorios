@@ -1,0 +1,101 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq!
+|2,0,1717807214,,"wq!"
+:q!
+|2,0,1717806704,,"q!"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+
+# Marcas en el archivo:
+'0  21  11  ~/nagios.conf
+|4,48,21,11,1717807214,"~/nagios.conf"
+'1  10  13  ~/docker-compose.yml
+|4,49,10,13,1717807148,"~/docker-compose.yml"
+'2  68  86  ~/dockerfile
+|4,50,68,86,1717807014,"~/dockerfile"
+'3  1  2  ~/dockerfile
+|4,51,1,2,1717806704,"~/dockerfile"
+'4  1  2  ~/dockerfile
+|4,52,1,2,1717806704,"~/dockerfile"
+
+# Lista de saltos (el más reciente va primero):
+-'  21  11  ~/nagios.conf
+|4,39,21,11,1717807214,"~/nagios.conf"
+-'  1  0  ~/nagios.conf
+|4,39,1,0,1717807181,"~/nagios.conf"
+-'  10  13  ~/docker-compose.yml
+|4,39,10,13,1717807148,"~/docker-compose.yml"
+-'  10  13  ~/docker-compose.yml
+|4,39,10,13,1717807148,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1717807113,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1717807113,"~/docker-compose.yml"
+-'  68  86  ~/dockerfile
+|4,39,68,86,1717807014,"~/dockerfile"
+-'  68  86  ~/dockerfile
+|4,39,68,86,1717807014,"~/dockerfile"
+-'  68  86  ~/dockerfile
+|4,39,68,86,1717807014,"~/dockerfile"
+-'  68  86  ~/dockerfile
+|4,39,68,86,1717807014,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1717806776,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1717806776,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1717806776,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1717806776,"~/dockerfile"
+-'  1  2  ~/dockerfile
+|4,39,1,2,1717806704,"~/dockerfile"
+-'  1  2  ~/dockerfile
+|4,39,1,2,1717806704,"~/dockerfile"
+-'  1  2  ~/dockerfile
+|4,39,1,2,1717806704,"~/dockerfile"
+-'  1  2  ~/dockerfile
+|4,39,1,2,1717806704,"~/dockerfile"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/nagios.conf
+	*	1717807207	0
+	"	21	11
+	^	21	12
+	.	21	11
+	+	21	11
+
+> ~/docker-compose.yml
+	*	1717807141	0
+	"	10	13
+	^	10	14
+	.	10	13
+	+	10	13
+
+> ~/dockerfile
+	*	1717807007	0
+	"	68	86
+	^	68	87
+	.	68	86
+	+	1	32
+	+	68	86
