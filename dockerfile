@@ -41,7 +41,7 @@ RUN ./configure --with-httpd-conf=/etc/apache2/sites-enabled || { cat config.log
 # Compilar Nagios Core
 RUN make all
 
-# Instalar Nagios + cachueros 
+# Instalar Nagios 
 RUN make install-groups-users \
     && usermod -a -G nagios www-data \
     && make install \
