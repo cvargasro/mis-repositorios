@@ -58,7 +58,7 @@ RUN htpasswd -b -c /usr/local/nagios/etc/htpasswd.users nagiosadmin nagiosadmin
 # hacemos un rm
 RUN rm -rf /var/lib/apt/lists/* nagios-4.5.2 nagios-4.5.2.tar.gz
 
-# Puerto 80 modo voyerista
+# Puerto 80
 EXPOSE 80
 
 # Copiar archivo de configuración de Apache
